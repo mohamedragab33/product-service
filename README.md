@@ -31,7 +31,7 @@ Make sure you have the following installed on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/product-service.git
+    git clone https://github.com/mohamedragab33/product-service.git
     cd product-service
     ```
 
