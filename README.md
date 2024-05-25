@@ -9,10 +9,6 @@ This is a microservice built with Spring Boot, Java 17, and MongoDB. It is part 
 - [Running the Application](#running-the-application)
 - [API Endpoints](#api-endpoints)
 - [Configuration](#configuration)
-- [Database](#database)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
