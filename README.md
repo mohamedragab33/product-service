@@ -21,6 +21,7 @@ Make sure you have the following installed on your local machine:
 - Java 17
 - Maven
 - MongoDB
+- Testcontainers
 
 ## Installation
 
